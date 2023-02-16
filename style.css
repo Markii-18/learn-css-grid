@@ -1,0 +1,33 @@
+.container {
+     background-color: royalblue;
+     width: 1000px;
+     height: 300px;
+
+     display: grid;
+     grid-template-columns: 200px 200px 200px;
+     grid-template-rows: 100px 100px;
+
+     row-gap: 50px;
+     column-gap: 20px;
+     margin-top: 50px;
+}
+.item {
+}
+.item-1 {
+    background-color: gray;
+}
+.item-2 {
+    background-color: thistle;
+}
+.item-3 {
+    background-color: honeydew;
+}
+.item-4 {
+    background-color: indigo;
+}
+.item-5 {
+    background-color: turquoise;
+}
+.item-6 {
+    background-color: teal;
+}
